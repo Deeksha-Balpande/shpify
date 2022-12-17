@@ -2957,3 +2957,8 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
+
+
+h1.header__heading {
+    background: red;
+}
