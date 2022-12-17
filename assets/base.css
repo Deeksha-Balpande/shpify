@@ -2963,6 +2963,11 @@ h1.header__heading {
 
     background: yellow;
 }
+
 .announcement-bar.color-background-1.gradient {
     background: orange;
+}
+
+header.header.header--middle-left.header--mobile-center.page-width.header--has-menu {
+    background: red;
 }
